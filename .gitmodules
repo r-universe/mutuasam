@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NovelDistns"]
+	path = NovelDistns
+	url = https://github.com/cran/NovelDistns
+	shallow = true
+	registered = true
+[submodule "rKenyaForex"]
+	path = rKenyaForex
+	url = https://github.com/cran/rKenyaForex
+	shallow = true
+	registered = true
